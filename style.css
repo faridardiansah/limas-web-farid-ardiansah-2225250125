@@ -1310,3 +1310,19 @@ html {
     margin: 10mm;
   }
 }
+.hero-illustration {
+  width: 100%;
+  max-width: 550px;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}.hero-illustration {
+  display: block;
+  width: 100%;
+  max-width: 550px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 18px;
+  margin: 0 auto;
+}
